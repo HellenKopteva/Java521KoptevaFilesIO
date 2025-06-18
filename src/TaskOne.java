@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class TaskOne {
+    //TODO: Counts of leters, digits, signs
     public static void main(String[] args) throws IOException {
 //        Path path = Paths.get("D:/Java521/Java521KoptevaFilesIO/src/Data/file1.txt");
 //        Path path1 = Paths.get("D:/Java521/Java521KoptevaFilesIO/src/Data/file2.txt");
